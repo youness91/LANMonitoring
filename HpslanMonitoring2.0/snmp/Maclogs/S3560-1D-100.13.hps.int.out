@@ -1,0 +1,113 @@
+
+S3560-1D-100.11.hps.int :  
+
+S3560-1D-100.12.hps.int :  
+
+S3560-1D-100.13.hps.int :  
+an    Mac Address       Type        Ports
+
+----    -----------       --------    -----
+
+All    0100.0ccc.cccc    STATIC      CPU
+
+All    0100.0ccc.cccd    STATIC      CPU
+
+All    0180.c200.0000    STATIC      CPU
+
+All    0180.c200.0001    STATIC      CPU
+
+All    0180.c200.0002    STATIC      CPU
+
+All    0180.c200.0003    STATIC      CPU
+
+All    0180.c200.0004    STATIC      CPU
+
+All    0180.c200.0005    STATIC      CPU
+
+All    0180.c200.0006    STATIC      CPU
+
+All    0180.c200.0007    STATIC      CPU
+
+All    0180.c200.0008    STATIC      CPU
+
+All    0180.c200.0009    STATIC      CPU
+
+All    0180.c200.000a    STATIC      CPU
+
+All    0180.c200.000b    STATIC      CPU
+
+All    0180.c200.000c    STATIC      CPU
+
+All    0180.c200.000d    STATIC      CPU
+
+All    0180.c200.000e    STATIC      CPU
+
+All    0180.c200.000f    STATIC      CPU
+
+All    0180.c200.0010    STATIC      CPU
+
+All    ffff.ffff.ffff    STATIC      CPU
+
+  13    5442.499b.445a    STATIC      Gi0/34
+
+  13    54ee.754b.662f    STATIC      Gi0/21
+
+  13    54ee.754b.66da    STATIC      Gi0/33
+
+  13    88ae.1dac.f878    STATIC      Gi0/38
+
+  13    a01d.48b8.438b    STATIC      Gi0/28
+
+  13    a02b.b82d.bc9e    STATIC      Gi0/22
+
+  13    a02b.b82d.ccc5    STATIC      Gi0/35
+
+  13    a0d3.c19d.4868    STATIC      Gi0/23
+
+  13    d4c9.efe7.5b07    STATIC      Gi0/19
+
+  13    e411.5b45.c2cc    STATIC      Gi0/37
+
+  14    082e.5f2a.b883    STATIC      Gi0/2
+
+  14    101f.7457.fc46    STATIC      Gi0/14
+
+  14    2c41.3806.fed1    STATIC      Gi0/41
+
+  14    a02b.b82d.bc5c    STATIC      Gi0/6
+
+  14    a02b.b82d.bc9f    STATIC      Gi0/10
+
+  14    a02b.b82d.cc1e    STATIC      Gi0/45
+
+  14    e411.5b45.c1c1    STATIC      Gi0/4
+
+  16    a01d.48b8.a32c    STATIC      Gi0/9
+
+  19    2c41.3806.8528    STATIC      Gi0/13
+
+  19    705a.b6b0.6504    STATIC      Gi0/5
+
+  50    0007.1b00.0a74    STATIC      Gi0/46
+
+200    001b.0c18.2060    STATIC      Gi0/28
+
+200    001b.0cdb.6c6c    STATIC      Gi0/18
+
+200    001b.0cdb.6c7a    STATIC      Gi0/25
+
+200    001b.0cdb.7163    STATIC      Gi0/39
+
+200    001b.0cdb.772d    STATIC      Gi0/33
+
+200    001b.0cdb.9651    STATIC      Gi0/37
+
+200    001b.0cdb.9855    STATIC      Gi0/19
+
+200    001b.0cdb.b64b    STATIC      Gi0/20
+
+200    001b.0cdb.b8d9    STATIC      Gi0/4
+
+200    0021.a0d8.4db9    STATIC      Gi0/14
+
+200    0021.a0d8.4edf    STATIC      Gi0/41

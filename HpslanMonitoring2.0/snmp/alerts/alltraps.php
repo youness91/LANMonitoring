@@ -1,0 +1,5 @@
+16:08:01.146353 IP 10.50.50.1.51467 > 192.168.70.136.snmptrap:  C=admin Trap(133)  S:1.1.5 10.50.50.1 linkDown 48431 interfaces.ifTable.ifEntry.ifIndex.1=1 interfaces.ifTable.ifEntry.ifDescr.1="FastEthernet0/0" interfaces.ifTable.ifEntry.ifType.1=6 E:cisco.2.2.1.1.20.1="administratively down"
+
+16:08:47.170011 IP 10.50.50.1.51467 > 192.168.70.136.snmptrap:  C=admin Trap(114)  S:1.1.5 10.50.50.1 linkUp 53033 interfaces.ifTable.ifEntry.ifIndex.1=1 interfaces.ifTable.ifEntry.ifDescr.1="FastEthernet0/0" interfaces.ifTable.ifEntry.ifType.1=6 E:cisco.2.2.1.1.20.1="up"
+16:08:57.657299 IP 10.50.50.1.51467 > 192.168.70.136.snmptrap:  C=admin Trap(133)  S:1.1.5 10.50.50.1 linkDown 54083 interfaces.ifTable.ifEntry.ifIndex.1=1 interfaces.ifTable.ifEntry.ifDescr.1="FastEthernet0/0" interfaces.ifTable.ifEntry.ifType.1=6 E:cisco.2.2.1.1.20.1="administratively down"
+16:09:06.455691 IP 10.50.50.1.51467 > 192.168.70.136.snmptrap:  C=admin Trap(114)  S:1.1.5 10.50.50.1 linkUp 54962 interfaces.ifTable.ifEntry.ifIndex.1=1 interfaces.ifTable.ifEntry.ifDescr.1="FastEthernet0/0" interfaces.ifTable.ifEntry.ifType.1=6 E:cisco.2.2.1.1.20.1="up"

@@ -1,0 +1,37 @@
+#inner-details {
+  font-size:16px;
+  color:##FF5555;
+  
+}
+canvas { 
+  background-color:white; 
+} 
+
+new Canvas("mycanvas", { 
+  backgroundColor: "#000" 
+
+}); 
+span.close {
+	color:#FF5555;
+	cursor:pointer;
+	font-weight:bold;
+	margin-left:3px;
+}
+
+span.name {
+  cursor: pointer;
+  text-align:left;
+}
+
+/*TOOLTIPS*/
+.tip {
+   text-align: right;
+   width:auto;
+   max-width:1000px;
+}
+
+.tip-title {
+  font-size: 11px;
+  text-align:center;
+  margin-bottom:2px;
+}
